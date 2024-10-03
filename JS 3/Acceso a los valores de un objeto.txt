@@ -1,0 +1,18 @@
+Ejercicio 1
+objeto_demo['dos']
+Respuesta: debe devolver 2
+objeto_demo[uno]
+Respuesta: debe devolver 1
+Ejercicio 2
+capitales['lugar']
+Respuesta: debe devolver undefined
+capitales.lugar 
+Respuesta: debe devolver undefined
+capitales[lugar]
+Respuesta: debe devolver Montevideo
+capitales['Argentina']
+Respuesta:debe devolver Buenos Aires
+capitales.Argentina
+Respuesta: debe devolver Buenos Aires
+capitales[Argentina]
+Respuesta: debe devolver un error

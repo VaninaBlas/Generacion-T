@@ -1,0 +1,24 @@
+#arriba {
+  height: 100px;
+  width: 900px;
+  background-color: antiquewhite;
+  border-radius: 60px 60px 10px 10px;
+}
+#abajo {
+  height: 100px;
+  background-color: antiquewhite;
+  width: 900px;
+  border-radius: 10px 10px 60px 60px;
+}
+#medio {
+  height: 100px;
+  width: 900px;
+  background-color: rgb(240, 125, 10);
+  border-radius: 50px;
+  border-top: yellow;
+  border-top-width: 15px;
+  border-top-style: solid;
+}
+div {
+  margin: 0px auto;
+}

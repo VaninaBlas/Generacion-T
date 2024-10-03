@@ -1,0 +1,25 @@
+.malos {
+  background-color: red;
+}
+.rebeldes {
+  background-color: blue;
+}
+#superMalo {
+  font-size: 40px;
+}
+#luke {
+  font-style: italic;
+}
+.soldados {
+  border: solid;
+  letter-spacing: 3px;
+}
+.apoyo {
+  text-align: center;
+}
+.naves {
+  text-transform: uppercase;
+}
+.robots {
+  display: flex;
+}

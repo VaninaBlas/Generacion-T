@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.child {
+  padding: 10px;
+  margin: 10px;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: cadetblue;
+}
+button {
+  border-radius: 10px;
+  border: none;
+  background-color: tan;
+}
+.diamond {
+  width: 330px;
+}
+.container-p {
+  padding: 15px;
+}
+.familia {
+  width: 300px;
+  height: 200px;
+}
+.fondo {
+  width: 500px;
+  height: 500px;
+  background-color: skyblue;
+  position: relative;
+  z-index: 1;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+.fondo div p {
+  position: relative;
+  z-index: 3;
+}
+
+img {
+  position: relative;
+  z-index: 2;
+  height: 350px;
+  width: 220px;
+  display: block;
+  margin: 0 auto;
+}
+.libro {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-right: 20px;
+}

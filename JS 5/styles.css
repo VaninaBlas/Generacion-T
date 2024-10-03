@@ -1,0 +1,25 @@
+body {
+  display: grid;
+  place-items: center;
+  margin: auto;
+  background-color: black;
+  width: 100vw;
+  height: 100vh;
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+.container {
+  display: flex;
+  background: rgba(255, 255, 255, 0.4);
+  padding: 20px 90px;
+  border-radius: 10px;
+}
+h2 {
+  font-size: 17px;
+}
+p {
+  font-size: 13px;
+}
+input {
+  width: 300px;
+}
